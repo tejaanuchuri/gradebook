@@ -1,0 +1,3 @@
+1. program.cs define c# source code of project
+2. gradebook.csproj means contain the information of the application, about my project.
+3. 
