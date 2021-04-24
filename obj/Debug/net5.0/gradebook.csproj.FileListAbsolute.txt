@@ -1,0 +1,5 @@
+C:\Users\tejaa\Desktop\My World\gradebook\obj\Debug\net5.0\gradebook.csprojAssemblyReference.cache
+C:\Users\tejaa\Desktop\My World\gradebook\obj\Debug\net5.0\gradebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejaa\Desktop\My World\gradebook\obj\Debug\net5.0\gradebook.AssemblyInfoInputs.cache
+C:\Users\tejaa\Desktop\My World\gradebook\obj\Debug\net5.0\gradebook.AssemblyInfo.cs
+C:\Users\tejaa\Desktop\My World\gradebook\obj\Debug\net5.0\gradebook.csproj.CoreCompileInputs.cache
